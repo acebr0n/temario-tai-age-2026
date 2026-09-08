@@ -68,20 +68,19 @@ Conceptos que no han caído en las últimas convocatorias pero son importantes e
 Con la adquisición del temario, incluyo un PDF anexo de incalculable valor para los repasos de última hora. Se trata de un compendio de tablas cruzadas e información supercondensada.
 
 **¿Qué incluye el Chuletario?**
-*   Tabla de plazos de la Ley 39/2015.
+*   Conceptos clave de la Ley 39/2015.
 *   Puertos TCP/UDP más comunes (y los raros que preguntan).
 *   Comandos esenciales de Linux vs. Windows.
-*   Atajos de teclado clave.
+*   ...
 *   ¡Y mucho más!
 
 > 📸 *Así luce el Chuletario:*
-> ![Ejemplo del Chuletario]
 <img width="767" height="755" alt="ejemplo_resumen1" src="https://github.com/user-attachments/assets/ced6154f-e8b5-4e06-a92e-246e32a28832" />
 ---
 
 ## 🛒 Cómo adquirirlo y Precios
 
-El temario completo (incluyendo PDF con el Chuletario Exprés) se distribuye en formato PDF de alta calidad, con marcas de agua personalizadas para evitar su distribución ilegal.
+El temario completo (incluyendo PDF con el Chuletario Exprés) se distribuye en formato PDF, con marcas de agua personalizadas para evitar su distribución ilegal.
 
 **Precio:** Consultar
 
