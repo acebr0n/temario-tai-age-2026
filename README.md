@@ -27,7 +27,7 @@ Este temario está diseñado en base a la última convocatoria publicada (diciem
 
 Si estás compaginando la opo con trabajo o familia, no tienes tiempo para leer manuales genéricos de 1.000 páginas. Este temario va **directo al corte**. 
 
-He analizado las tendencias del INAP y de la Comisión Permanente de Selección (CPS) para identificar:
+Se ha hecho analizando las tendencias del INAP y de la Comisión Permanente de Selección (CPS) para identificar:
 1.  **Lo que siempre cae:** Artículos clave de Legislación y tecnologías recurrentes en los Bloques III y IV.
 2.  **Lo que NUNCA cae:** Descarte de teoría obsoleta que las academias siguen incluyendo por inercia.
 3.  **Las trampas:** Cómo redacta la CPS para inducir a error (ej. plazos hábiles vs. naturales, órganos competentes).
@@ -102,10 +102,3 @@ Preguntame cualquier duda e intentaré ayudarte en lo que pueda.
 ---
 
 *“No estudies más horas, estudia de forma más inteligente.”*
-"""
-with open('README.md', 'w') as f:
-    f.write(content)
-print("Archivo README.md generado.")
-
-
-
