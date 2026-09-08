@@ -52,10 +52,11 @@ La "chicha". Solo la información técnica clave que puntúa.
 ### 1.4 Preguntas de Examen (Ingeniería Inversa)
 Análisis de cómo se ha preguntado este tema en convocatorias anteriores. Identificamos los patrones de la CPS y las preguntas trampa clásicas.
 
+> 📸 *Ejemplo de Análisis de preguntas relacinadas con el tema desarrollado*
+<img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
+
 ### 1.5 Apuntes Generales
 El desarrollo necesario para entender el contexto de los puntos clave que ya han caído en anteriores convocatorias. Texto filtrado y sin redundancias.
-> 📸 *Ejemplo de Apuntes filtrados:*
-<img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
 
 ### 1.6 Temario Ampliado
 Conceptos que no han caído en las últimas convocatorias pero son importantes en el tema analizado
