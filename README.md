@@ -2,12 +2,9 @@ content = """
 # 🚀 Temario TAI (AGE) - Edición 2026
 
 
-[![Contacto Telegram](https://img.shields.io/badge/Telegram-Escribir_Mensaje-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TuAliasDeTelegram)
-[![Contacto Correo](https://img.shields.io/badge/Email-Enviar_Duda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Contacto Telegram](https://img.shields.io/badge/Telegram-Escribir_Mensaje-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GaS_TAI)
+[![Contacto Correo](https://img.shields.io/badge/Email-Enviar_Duda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrigarsan@gmail.com)
 
-![Portada del Temario](url_de_tu_imagen_de_portada)
-
-![Portada del Temario](url_de_tu_imagen_de_portada)
 
 El único manual de preparación para el **Cuerpo de Técnicos Auxiliares de Informática de la Administración General del Estado** estructurado mediante ingeniería inversa de las últimas convocatorias. Diseñado por y para informáticos que necesitan máxima rentabilidad por cada hora de estudio.
 
@@ -46,11 +43,11 @@ Una visión "a vista de pájaro" del tema. Ideal para el primer contacto y el re
 
 ### 1.2 Diagrama Clave
 Representación visual de los conceptos más complejos. *(Ej: Arquitectura de capas OSI, flujo de un procedimiento sancionador, o despliegue en Kubernetes).*
-> 📸 *Ejemplo de Diagrama:*
-> ![Ejemplo de Diagrama de Red](url_de_ejemplo_diagrama_red)
 
 ### 1.3 Puntos Clave
 La "chicha". Solo la información técnica y legislativa que puntúa. Destacados visuales para activar tu memoria fotográfica.
+
+<img width="677" height="682" alt="ejemplo_temario2" src="https://github.com/user-attachments/assets/383a7778-f2ec-42bb-a11f-a49b34946328" />
 
 ### 1.4 Preguntas de Examen (Ingeniería Inversa)
 Análisis de cómo se ha preguntado este tema en convocatorias anteriores. Identificamos los patrones de la CPS y las preguntas trampa clásicas.
@@ -59,6 +56,7 @@ Análisis de cómo se ha preguntado este tema en convocatorias anteriores. Ident
 El desarrollo necesario para entender el contexto de los puntos clave que ya han caído en anteriores convocatorias. Texto filtrado y sin redundancias.
 > 📸 *Ejemplo de Apuntes filtrados:*
 > ![Ejemplo de Apuntes](url_de_ejemplo_apuntes_pdf)
+<img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
 
 ### 1.6 Temario Ampliado
 Conceptos que no han caído en las últimas convocatorias pero son claves en el tema analizado
@@ -78,7 +76,7 @@ Con la adquisición del temario, incluyo un PDF anexo de incalculable valor para
 
 > 📸 *Así luce el Chuletario:*
 > ![Ejemplo del Chuletario](url_de_ejemplo_chuletario)
-
+<img width="767" height="755" alt="ejemplo_resumen1" src="https://github.com/user-attachments/assets/ced6154f-e8b5-4e06-a92e-246e32a28832" />
 ---
 
 ## 🛒 Cómo adquirirlo y Precios
@@ -88,7 +86,7 @@ El temario completo (incluyendo PDF con el Chuletario Exprés) se distribuye en 
 **Precio:** Consultar
 
 **Pasos para la compra:**
-1. Escríbeme un mensaje directo a **[mi Telegram personal](https://t.me/TuAliasDeTelegram)** o lanza el comando de compra en mi **[Bot de Telegram](https://t.me/TuBot)**. (En proceso/No disponible aún)
+1. Escríbeme un mensaje directo a **[mi Telegram personal](https://t.me/GaS_TAI)** o lanza el comando de compra en mi **[Bot de Telegram](https://t.me/TuBot)**. (En proceso/No disponible aún)
 2. Te facilitaré los datos para realizar el Bizum/PayPal.
 3. Una vez confirmado, recibirás inmediatamente tu PDF personalizado directamente en el chat.
 
@@ -100,8 +98,8 @@ Si prefieres la versión impresa física, también puedes adquirirla a través d
 ¿Tienes dudas sobre si el enfoque técnico del temario se adapta a tu nivel? ¿Quieres ver una muestra adicional del Bloque III o Bloque IV antes de decidirte? 
 
 Estaré encantado de orientarte. Puedes contactarme directamente por:
-*   **Telegram:** [@TuAliasDeTelegram](https://t.me/TuAliasDeTelegram)
-*   **Email:** [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+*   **Telegram:** [@TuAliasDeTelegram](https://t.me/GaS_TAI)
+*   **Email:** [tu_correo@gmail.com](mailto:adrigarsan@gmail.com)
 
 ---
 
@@ -110,6 +108,6 @@ Estaré encantado de orientarte. Puedes contactarme directamente por:
 with open('README.md', 'w') as f:
     f.write(content)
 print("Archivo README.md generado.")<img width="692" height="277" alt="ejemplo_temario3" src="https://github.com/user-attachments/assets/d8d5ba03-47e2-41f4-aa54-9d5b7fcac59d" />
-<img width="677" height="682" alt="ejemplo_temario2" src="https://github.com/user-attachments/assets/383a7778-f2ec-42bb-a11f-a49b34946328" />
-<img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
-<img width="767" height="755" alt="ejemplo_resumen1" src="https://github.com/user-attachments/assets/ced6154f-e8b5-4e06-a92e-246e32a28832" />
+
+
+
