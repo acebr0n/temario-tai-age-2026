@@ -55,6 +55,8 @@ Análisis de cómo se ha preguntado este tema en convocatorias anteriores. Ident
 > 📸 *Ejemplo de Análisis de preguntas relacinadas con el tema desarrollado*
 <img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
 
+<img width="692" height="277" alt="ejemplo_temario3" src="https://github.com/user-attachments/assets/d8d5ba03-47e2-41f4-aa54-9d5b7fcac59d" />
+
 ### 1.5 Apuntes Generales
 El desarrollo necesario para entender el contexto de los puntos clave que ya han caído en anteriores convocatorias. Texto filtrado y sin redundancias.
 
@@ -103,7 +105,7 @@ Preguntame cualquier duda e intentaré ayudarte en lo que pueda.
 """
 with open('README.md', 'w') as f:
     f.write(content)
-print("Archivo README.md generado.")<img width="692" height="277" alt="ejemplo_temario3" src="https://github.com/user-attachments/assets/d8d5ba03-47e2-41f4-aa54-9d5b7fcac59d" />
+print("Archivo README.md generado.")
 
 
 
