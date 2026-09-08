@@ -96,10 +96,7 @@ Si prefieres la versión impresa física, también puedes adquirirla a través d
 
 ¿Tienes dudas sobre si el enfoque técnico del temario se adapta a tu nivel? ¿Quieres ver una muestra adicional del Bloque III o Bloque IV antes de decidirte? 
 
-Estaré encantado de orientarte. Puedes contactarme directamente por:
-*   **Telegram:** [@TuAliasDeTelegram](https://t.me/GaS_TAI)
-*   **Email:** [tu_correo@gmail.com](mailto:adrigarsan@gmail.com)
-
+Preguntame cualquier duda e intentaré ayudarte en lo que pueda.
 ---
 
 *“No estudies más horas, estudia de forma más inteligente.”*
