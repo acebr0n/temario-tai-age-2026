@@ -46,7 +46,7 @@ Representación visual del tema y los conceptos más preguntados, para hacer un 
 
 ### 1.3 Puntos Clave
 La "chicha". Solo la información técnica clave que puntúa.
-
+> 📸 *Ejemplo de puntos clave:*
 <img width="677" height="682" alt="ejemplo_temario2" src="https://github.com/user-attachments/assets/383a7778-f2ec-42bb-a11f-a49b34946328" />
 
 ### 1.4 Preguntas de Examen (Ingeniería Inversa)
@@ -55,7 +55,6 @@ Análisis de cómo se ha preguntado este tema en convocatorias anteriores. Ident
 ### 1.5 Apuntes Generales
 El desarrollo necesario para entender el contexto de los puntos clave que ya han caído en anteriores convocatorias. Texto filtrado y sin redundancias.
 > 📸 *Ejemplo de Apuntes filtrados:*
-> ![Ejemplo de Apuntes](url_de_ejemplo_apuntes_pdf)
 <img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
 
 ### 1.6 Temario Ampliado
@@ -75,7 +74,7 @@ Con la adquisición del temario, incluyo un PDF anexo de incalculable valor para
 *   ¡Y mucho más!
 
 > 📸 *Así luce el Chuletario:*
-> ![Ejemplo del Chuletario](url_de_ejemplo_chuletario)
+> ![Ejemplo del Chuletario]
 <img width="767" height="755" alt="ejemplo_resumen1" src="https://github.com/user-attachments/assets/ced6154f-e8b5-4e06-a92e-246e32a28832" />
 ---
 
