@@ -39,13 +39,13 @@ He analizado las tendencias del INAP y de la Comisión Permanente de Selección 
 Cada uno de los 27 temas (Bloque I: Legislación, Bloque II: Tecnología Básica, Bloque III: Desarrollo, Bloque IV: Sistemas) sigue una estructura táctica idéntica para maximizar la retención:
 
 ### 1.1 Resumen Esquematizado
-Una visión "a vista de pájaro" del tema. Ideal para el primer contacto y el repaso de la última semana.
+Una visión "a vista de pájaro" del tema. Ideal para el primer contacto y el repaso de la última/s semana/s.
 
 ### 1.2 Diagrama Clave
-Representación visual de los conceptos más complejos. *(Ej: Arquitectura de capas OSI, flujo de un procedimiento sancionador, o despliegue en Kubernetes).*
+Representación visual del tema y los conceptos más preguntados, para hacer un repaso visual.
 
 ### 1.3 Puntos Clave
-La "chicha". Solo la información técnica y legislativa que puntúa. Destacados visuales para activar tu memoria fotográfica.
+La "chicha". Solo la información técnica clave que puntúa.
 
 <img width="677" height="682" alt="ejemplo_temario2" src="https://github.com/user-attachments/assets/383a7778-f2ec-42bb-a11f-a49b34946328" />
 
@@ -59,7 +59,7 @@ El desarrollo necesario para entender el contexto de los puntos clave que ya han
 <img width="687" height="663" alt="ejemplo_temario1" src="https://github.com/user-attachments/assets/15665fcf-2fb4-4863-959c-40fd0923cc23" />
 
 ### 1.6 Temario Ampliado
-Conceptos que no han caído en las últimas convocatorias pero son claves en el tema analizado
+Conceptos que no han caído en las últimas convocatorias pero son importantes en el tema analizado
 
 ---
 
