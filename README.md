@@ -3,7 +3,7 @@ content = """
 
 
 [![Contacto Telegram](https://img.shields.io/badge/Telegram-Escribir_Mensaje-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GaS_TAI)
-[![Contacto Correo](https://img.shields.io/badge/Email-Enviar_Duda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrigarsan@gmail.com)
+[![Contacto Correo](https://img.shields.io/badge/Email-Enviar_Duda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrigarsantai@gmail.com)
 
 
 El único manual de preparación para el **Cuerpo de Técnicos Auxiliares de Informática de la Administración General del Estado** estructurado mediante ingeniería inversa de las últimas convocatorias. Diseñado por y para informáticos que necesitan máxima rentabilidad por cada hora de estudio.
